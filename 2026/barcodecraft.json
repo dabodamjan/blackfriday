@@ -1,0 +1,14 @@
+{
+  "name": "BarcodeCraft",
+  "url": "https://www.barcodecraft.com/black-friday",
+  "description": "Barcode generator for iPhone and iPad. Makes Code 128, Code 39, Code 93, EAN-13, EAN-8, PDF417 and Aztec codes and shares them as PNG",
+  "category": "utilities",
+  "platforms": ["ios", "ipad"],
+  "deal": "50% off lifetime: $4.99, down from $9.99, Nov 18 to Dec 4. No code needed",
+  "pricing": "lifetime",
+  "price": { "regular": 9.99, "sale": 4.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-18",
+  "endDate": "2026-12-04",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/73/02/d173024f-bf69-4a75-d8a8-986cc86d7ea3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg"
+}

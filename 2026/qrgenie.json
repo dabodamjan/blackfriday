@@ -1,0 +1,14 @@
+{
+  "name": "QRGenie",
+  "url": "https://qrgenie.app/black-friday",
+  "description": "QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark",
+  "category": "utilities",
+  "platforms": ["ios", "ipad", "mac"],
+  "deal": "50% off lifetime: $9.99, down from $19.99, Nov 18 to Dec 4. No code needed",
+  "pricing": "lifetime",
+  "price": { "regular": 19.99, "sale": 9.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-18",
+  "endDate": "2026-12-04",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/1e/5b/1a1e5b1a-b6d5-fbc2-e0a4-d805620cf073/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg"
+}
