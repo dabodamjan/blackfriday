@@ -1,0 +1,14 @@
+{
+  "name": "Itemlist",
+  "url": "https://www.getitemlist.app/black-friday/",
+  "description": "Home inventory for iPhone and iPad. Track what you own by location, room and container, with photos, values and search across every field",
+  "category": "productivity",
+  "platforms": ["ios", "ipad"],
+  "deal": "50% off lifetime PRO: $29.99, down from $59.99, Nov 18 to Dec 4. No code needed",
+  "pricing": "lifetime",
+  "price": { "regular": 59.99, "sale": 29.99, "currency": "USD" },
+  "discount": 50,
+  "startDate": "2026-11-18",
+  "endDate": "2026-12-04",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/10/35/8e103530-3ffc-f655-2a16-31f7d0c7b062/AppIcon-0-0-1x_U007epad-0-0-0-1-0-P3-85-220.png/512x512bb.jpg"
+}
